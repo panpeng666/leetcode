@@ -32,12 +32,15 @@ public class java1122 {
 
    static class Solution {
        public int[] relativeSortArray(int[] arr1, int[] arr2) {
+           //创建一个1001长度的数组A存放arr1各个值得计数
             int [] A = new int[1001];
+            //创建B数组，长度为和arr1一致，用于放置答案
             int [] B = new int[arr1.length];
+            //将arr1数组得计数置入A数组中
             for (int i:arr1){
                 A[i]++;
             }
-
+            //这里开始构建答案，按照arr2的排序顺序，将arr1中的值置入B数组
            int cnt = 0;
            for(int i = 0; i < arr2.length; i++) {
                while(A[arr2[i]] > 0) {
@@ -45,7 +48,7 @@ public class java1122 {
                    A[arr2[i]]--;
                }
            }
-
+           //完成上述操作后，此时数组A中的值只有非arr2的数据，按顺序导入B数组即可
            for(int i = 0; i < 1001; i++) {
                while(A[i] > 0) {
                    B[cnt++] = i;
@@ -53,8 +56,6 @@ public class java1122 {
                }
            }
            return B;
-
-
        }
         }
 }
