@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java1003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java1108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java1185.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java70.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/CountSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1003$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1003$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1003.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.java1003">
+  <component name="RunManager" selected="Application.java557">
     <configuration name="CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.CountSort" />
       <module name="hello" />
@@ -91,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java811" />
+    <configuration name="java557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java557" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java557" />
         <item itemvalue="Application.java1003" />
         <item itemvalue="Application.java1003$Solution" />
         <item itemvalue="Application.java999" />
         <item itemvalue="Application.CountSort" />
-        <item itemvalue="Application.java811" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +147,8 @@
       <workItem from="1566885977230" duration="39023000" />
       <workItem from="1567144647257" duration="163000" />
       <workItem from="1567144829952" duration="35896000" />
-      <workItem from="1568023739885" duration="10230000" />
+      <workItem from="1568023739885" duration="19355000" />
+      <workItem from="1568603176089" duration="4519000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -180,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568096267230</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <created>1568100240156</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568100240156</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
