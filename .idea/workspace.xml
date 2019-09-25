@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java258.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java821.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../med-gops" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -50,9 +52,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.java541">
-    <configuration name="java1003$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java1003$Solution" />
+  <component name="RunManager" selected="Application.java171">
+    <configuration name="java1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java1003" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java1003" />
+    <configuration name="java171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java171" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java999" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java999" />
+    <configuration name="java821" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java821" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java171" />
+        <item itemvalue="Application.java821" />
         <item itemvalue="Application.java541" />
         <item itemvalue="Application.java557" />
         <item itemvalue="Application.java1003" />
-        <item itemvalue="Application.java1003$Solution" />
-        <item itemvalue="Application.java999" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +145,7 @@
       <workItem from="1567144647257" duration="163000" />
       <workItem from="1567144829952" duration="35896000" />
       <workItem from="1568023739885" duration="19355000" />
-      <workItem from="1568603176089" duration="13907000" />
+      <workItem from="1568603176089" duration="34684000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -201,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568627888315</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test">
+      <created>1568705876393</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568705876393</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
