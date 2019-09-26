@@ -15,12 +15,26 @@ package leetcode;
  * 链接：https://leetcode-cn.com/problems/add-digits
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-//public class java258 {
-//
-//    //看到题目第一眼还是想到递归
-//    class Solution {
-//        public int addDigits(int num) {
-//
-//        }
-//    }
-//}
+public class java258 {
+
+    //看到题目第一眼还是想到递归
+    //看了大佬们的题解，要想走O（1）时间复杂度，就通过%9来做
+   static class Solution {
+        public int addDigits(int num) {
+            String a=Integer.toString(num);
+            if (a.length()==1)return num;
+            else {
+                int temp=0;
+                for (char i:a.toCharArray()){
+                    temp=temp+(i-48);
+                }
+                return addDigits(temp);
+            }
+        }
+    }
+
+    public static void main(String[] args){
+        Solution solution=new Solution();
+        System.out.println(solution.addDigits(123910));
+    }
+}
