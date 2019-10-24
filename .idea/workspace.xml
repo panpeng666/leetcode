@@ -2,14 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java475.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java258$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java258$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java258.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java258.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java942$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java942$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java942.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java942.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/java942.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/java942.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/CountSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.java258">
+  <component name="RunManager" selected="Application.java475$Solution">
     <configuration name="java171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.java171" />
       <module name="hello" />
@@ -77,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java541" />
+    <configuration name="java475$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java475$Solution" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java557" />
+    <configuration name="java475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java475" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java475$Solution" />
+        <item itemvalue="Application.java475" />
         <item itemvalue="Application.java258" />
         <item itemvalue="Application.java171" />
         <item itemvalue="Application.java821" />
-        <item itemvalue="Application.java541" />
-        <item itemvalue="Application.java557" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +169,7 @@
       <workItem from="1570008562050" duration="1445000" />
       <workItem from="1570499267856" duration="2102000" />
       <workItem from="1570872082228" duration="3644000" />
-      <workItem from="1571297209761" duration="2015000" />
+      <workItem from="1571297209761" duration="28479000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -235,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570872354102</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="提交新的解题答案">
+      <created>1571299257481</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571299257481</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +284,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="提交新的解题答案" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交新的解题答案" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
