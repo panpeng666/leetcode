@@ -20,6 +20,8 @@ package leetcode;
  * 0 <= A[i] <= 10^6
  * A是一座山，如上所述。
  */
+
+//10-29重做
 public class java852 {
 
     class Solution {
@@ -33,7 +35,7 @@ public class java852 {
                 }
 
             }
-            return A[temp];
+            return temp;//这里写错了，尴尬
         }
     }
 }

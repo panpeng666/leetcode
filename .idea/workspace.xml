@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/java70_not_finish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/java70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/java852.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/java852.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +163,7 @@
       <workItem from="1570008562050" duration="1445000" />
       <workItem from="1570499267856" duration="2102000" />
       <workItem from="1570872082228" duration="3644000" />
-      <workItem from="1571297209761" duration="41664000" />
+      <workItem from="1571297209761" duration="44983000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -270,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572247169398</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="提交新的解题答案 java70">
+      <created>1572249744489</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1572249744489</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +301,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="提交新的解题答案" />
     <MESSAGE value="提交新的解题答案 java929" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交新的解题答案 java929" />
+    <MESSAGE value="提交新的解题答案 java70" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交新的解题答案 java70" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
