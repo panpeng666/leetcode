@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java908.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,7 +168,7 @@
       <workItem from="1573010912152" duration="3071000" />
       <workItem from="1573034131047" duration="1227000" />
       <workItem from="1573120356391" duration="2414000" />
-      <workItem from="1573545870299" duration="253000" />
+      <workItem from="1573545870299" duration="4277000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -296,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572336273449</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="提交新的做题记录  java500 没做出来，贴了一个答案">
+      <created>1573546470913</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1573546470913</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +330,8 @@
     <MESSAGE value="提交新的解题答案 java70" />
     <MESSAGE value="修改做错的解题答案 java852" />
     <MESSAGE value="提交新的做题记录 java476" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交新的做题记录 java476" />
+    <MESSAGE value="提交新的做题记录  java500 没做出来，贴了一个答案" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交新的做题记录  java500 没做出来，贴了一个答案" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
