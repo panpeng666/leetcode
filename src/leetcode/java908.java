@@ -56,6 +56,7 @@ public class java908 {
             if (MAX-MIN<=2*K){
                 return 0;
             }
+
             else return MAX-MIN-2*K;
         }
     }
