@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java1185.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java575.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/META-INF/hello.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1185_not_finish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1185_not_finish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java476$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java476$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java476.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java476.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/java1185_not_finish.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,9 +70,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.java476">
-    <configuration name="java258" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java258" />
+  <component name="RunManager" selected="Application.java1185_not_finish">
+    <configuration name="java1185_not_finish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java1185_not_finish" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java1185_not_finish" />
         <item itemvalue="Application.java476" />
         <item itemvalue="Application.java929" />
         <item itemvalue="Application.java475$Solution" />
         <item itemvalue="Application.java475" />
-        <item itemvalue="Application.java258" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +174,13 @@
       <workItem from="1573010912152" duration="3071000" />
       <workItem from="1573034131047" duration="1227000" />
       <workItem from="1573120356391" duration="2414000" />
-      <workItem from="1573545870299" duration="4277000" />
+      <workItem from="1573545870299" duration="4908000" />
+      <workItem from="1579510984450" duration="2298000" />
+      <workItem from="1580713799101" duration="715000" />
+      <workItem from="1581216674050" duration="1962000" />
+      <workItem from="1581316960738" duration="40000" />
+      <workItem from="1581317518414" duration="276000" />
+      <workItem from="1582424893334" duration="1942000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -303,7 +315,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573546470913</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="提交新的做题记录  java500 没做出来，贴了一个答案">
+      <created>1573550321066</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1573550321066</updated>
+    </task>
+    <task id="LOCAL-00021" summary="提交新的做题记录  java908">
+      <created>1573550343167</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1573550343167</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +357,8 @@
     <MESSAGE value="修改做错的解题答案 java852" />
     <MESSAGE value="提交新的做题记录 java476" />
     <MESSAGE value="提交新的做题记录  java500 没做出来，贴了一个答案" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交新的做题记录  java500 没做出来，贴了一个答案" />
+    <MESSAGE value="提交新的做题记录  java908" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交新的做题记录  java908" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
