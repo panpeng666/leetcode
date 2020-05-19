@@ -2,109 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java1323.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/META-INF/hello.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/com/company/Person$TestThreadCiycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/com/company/Person$TestThreadCiycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/com/company/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/com/company/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/com/company/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/com/company/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1002$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1002$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1002.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1002.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1003$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1003$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1003.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1051$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1051$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1051.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1051.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1108$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1108$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1108.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1108.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1122$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1122$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1122.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1122.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1160$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1160$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1160.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1160.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java118$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java118$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java118.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java118.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1185$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1185$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1185.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java1185.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java1185_not_finish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java171$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java171$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java171.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java171.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java258$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java258$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java258.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java258.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java344$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java344$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java344.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java344.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java461$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java461$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java461.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java461.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java475$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java475$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java475.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java475.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java476$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java476$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java476.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java476.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java500_not_finish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java509$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java509$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java509.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java509.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java541$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java541$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java541.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java541.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java557$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java557$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java557.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java557.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java561$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java561$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java561.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java561.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java617$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java617$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java617.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java617.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java657$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java657$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java657.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java657.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java70.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java70.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java728$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java728$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java728.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java728.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java804$Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java804$Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java804.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java804.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java811$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java811$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java811.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java811.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java821$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java821$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java821.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java821.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java832$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java832$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java832.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java832.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java833$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java833$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java833.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java833.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java852$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java852$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java852.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java852.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java859_notFinish$Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java859_notFinish$Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java859_notFinish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java859_notFinish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java905$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java905$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java905.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java905.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java908$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java908$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java908.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java908.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java922$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java922$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java922$Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java922$Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java922.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java922.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java929$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java929$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java929.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java929.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java942$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java942$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java942.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java942.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java944$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java944$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java944.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java944.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java961$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java961$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java961.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java961.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java977$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java977$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java977.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java977.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java999$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java999$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java999.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java999.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/sort/CountSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/sort/CountSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/CalendarClassPractice$a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/CalendarClassPractice$a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/CalendarClassPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/CalendarClassPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/NodeHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/NodeHash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/io/PpIOTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/io/PpIOTest3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/io/PpIOTest4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/io/PpIOTest4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/io/PpIOTest5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/io/PpIOTest5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/io/PpIOTest6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/io/PpIOTest6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/io/PpIOTest7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/io/ppIOTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/io/ppIOTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/io/ppIOTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/io/ppIOTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/ppArraysList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/ppArraysList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/ppHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/ppHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/test/ppLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/test/ppLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/java500_not_finish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/java500.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/java575.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/java575.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/java811.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/java811.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/io/PpIOTest7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/io/PpIOTest7.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -282,7 +181,8 @@
       <workItem from="1581317518414" duration="276000" />
       <workItem from="1582424893334" duration="1942000" />
       <workItem from="1589355043099" duration="895000" />
-      <workItem from="1589869644551" duration="3760000" />
+      <workItem from="1589869644551" duration="5205000" />
+      <workItem from="1589881229926" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -431,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573550343167</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="提交新的做题记录  java575">
+      <created>1589873651637</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1589873651637</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,7 +367,8 @@
     <MESSAGE value="提交新的做题记录 java476" />
     <MESSAGE value="提交新的做题记录  java500 没做出来，贴了一个答案" />
     <MESSAGE value="提交新的做题记录  java908" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交新的做题记录  java908" />
+    <MESSAGE value="提交新的做题记录  java575" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交新的做题记录  java575" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
