@@ -1,7 +1,10 @@
-//package leetcode;
-//
-//import java.util.HashMap;
-//import java.util.Map;
+package leetcode;
+
+import org.testng.annotations.Test;
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
 //
 ///**
 // * 给定一个偶数长度的数组，其中不同的数字代表着不同种类的糖果，每一个数字代表一个糖果。你需要把这些糖果平均分给一个弟弟和一个妹妹。返回妹妹可以获得的最大糖果的种类数。
@@ -26,20 +29,24 @@
 // * 链接：https://leetcode-cn.com/problems/distribute-candies
 // * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 // */
-//public class java575 {
-//
-//    class Solution {
-//        public int distributeCandies(int[] candies) {
-//            Map<Integer,Integer> map = new HashMap<Integer,Integer>();
-//            map.put(candies[0],0);
-//            //构建一个map来用，计数排序？
-//            for (int temp:candies){
-//
-//                if (map.get(temp)!=null){
-//                    map.put(temp,map.get(temp)+1);
-//                }else {map.put(temp,1);}
-//            }
-//
-//        }
-//    }
-//}
+public class java575 {
+@Test
+public void test(){
+    int [] a={1,1,2,2,3,3};
+    Solution solution=new Solution();
+    System.out.println(solution.distributeCandies(a));
+}
+
+
+    class Solution {
+        public int distributeCandies(int[] candies) {
+            if (candies.length==0)return 0;
+            HashSet set = new HashSet();
+            for (int temp : candies){
+                set.add(temp);
+            }
+            return Math.min(set.size(),candies.length/2);
+
+        }
+    }
+}

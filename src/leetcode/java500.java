@@ -29,7 +29,7 @@ import java.util.List;
 键盘每一行字符做一个list{q,w,e,r,t,y,u,i,o,p} {a,s,d,f,g,h,j,k,l} {z,x,c,v,b,n,m}
 输入的list的每个string进行拆分，对每个字符进行判断，通过的放到新的res里
  */
-public class java500_not_finish {
+public class java500 {
     public String[] findWords(String[] words) {
         if (words == null) {
             return null;
