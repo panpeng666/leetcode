@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java1323.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java575$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java575$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java804$Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java804$Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java804.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java804.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/java804.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/java804.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.java575.test">
+  <component name="RunManager" selected="Application.java804">
     <configuration name="java1185_not_finish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.java1185_not_finish" />
       <module name="hello" />
@@ -78,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java475$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java475$Solution" />
+    <configuration name="java476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java476" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java476" />
+    <configuration name="java804" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java804" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java804" />
         <item itemvalue="TestNG.java575.test" />
         <item itemvalue="Application.java1185_not_finish" />
         <item itemvalue="Application.java476" />
         <item itemvalue="Application.java929" />
-        <item itemvalue="Application.java475$Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +185,7 @@
       <workItem from="1582424893334" duration="1942000" />
       <workItem from="1589355043099" duration="895000" />
       <workItem from="1589869644551" duration="5205000" />
-      <workItem from="1589881229926" duration="625000" />
+      <workItem from="1589881229926" duration="2632000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -338,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589873651637</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="提交新的做题记录  java1323">
+      <created>1589881873204</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589881873204</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +378,8 @@
     <MESSAGE value="提交新的做题记录  java500 没做出来，贴了一个答案" />
     <MESSAGE value="提交新的做题记录  java908" />
     <MESSAGE value="提交新的做题记录  java575" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交新的做题记录  java575" />
+    <MESSAGE value="提交新的做题记录  java1323" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交新的做题记录  java1323" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
