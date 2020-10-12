@@ -31,53 +31,36 @@ import java.util.*;
  */
 
 //第一反应就是迭代（当然迭代性能弱得一比）
+    //我错了，我不用自己的sb迭代了
 public class java1047 {
-//    class Solution {
-//        public String removeDuplicates(String S) {
-//            if (check(S)){
-//                return S;
-//            }else
-//
-//        }
-        public boolean check(String S){
-            char last;
-            StringBuilder sb = new StringBuilder();
-            int count=0;
-            for (char temp:S.toCharArray()) {
-                if (count++ < S.length()) {
-                    last = S.toCharArray()[++count];
-                    if (temp==last){
-                        return false;
+    //先暴力解法，我lbw今天就是不用栈来做题
+    static class Solution {
+        public String removeDuplicates(String S) {
+            if (S.length()==1){return S;}
+            StringBuilder sb = new StringBuilder(S);
+            while (true){
+                boolean flag = true;
+                for (int i=1;i<sb.length();i++){
+                    if (sb.charAt(i)==sb.charAt(i-1)){
+                        sb.replace(i-1,i+1,"");
+                        flag=false;
                     }
                 }
+                if (flag){break;}
             }
-            return true;
-        }
-
-
-        public String first(String S){
-            char first;
-            char last;
-            StringBuilder sb = new StringBuilder();
-            int count=0;
-
-            for (char temp:S.toCharArray()) {
-                if (count++ < S.length()) {
-                    first = temp;
-                    last = S.toCharArray()[++count];
-                    if (first!=last){
-                        sb.append(temp);
-                    }
-                }else break;
-            }
-
             return sb.toString();
-
         }
 
-        public void test(){
-            List list = new ArrayList();
-//            list.sort(1);
+
+        public static void main(String[] args) {
+            Solution solution = new Solution();
+            System.out.println(solution.removeDuplicates("abbacaa"));
+            String a = "666";
+            String b = "7";
+            a = b;
+            System.out.println(a);
         }
     }
+}
+
 
