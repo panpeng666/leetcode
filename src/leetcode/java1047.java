@@ -51,14 +51,51 @@ public class java1047 {
             return sb.toString();
         }
 
+        //用栈的思想来做题
+        //这个是不用栈，用stringBuilders代替栈来实现
+
+        public String removeDuplicates1(String S) {
+            StringBuilder sb = new StringBuilder();
+            int a=0;
+            for (int i=0;i<S.length();i++){
+                if (a!=0&&sb.charAt(a-1) == S.charAt(i)){
+                    sb.deleteCharAt(--a);
+                }else {
+                    sb.append(S.charAt(i));
+                    a++;
+                }
+
+            }
+
+            return  (sb.toString());
+        }
+
+        //申明栈来实现
+        public String removeDuplicates2(String S) {
+            Stack<Character> stack = new Stack<>();
+
+            for (int i=0;i<S.length();i++){
+
+                if (!stack.isEmpty()&&stack.peek()==S.charAt(i)){
+                    stack.pop();
+
+                }else {
+                    stack.push(S.charAt(i));
+                }
+
+            }
+            StringBuilder sb = new StringBuilder();
+            for (char temp:stack){
+                sb.append(temp);
+            }
+            return sb.toString();
+        }
+
 
         public static void main(String[] args) {
             Solution solution = new Solution();
-            System.out.println(solution.removeDuplicates("abbacaa"));
-            String a = "666";
-            String b = "7";
-            a = b;
-            System.out.println(a);
+           // System.out.println(solution.removeDuplicates("abbacaa"));
+            System.out.println(solution.removeDuplicates2("abbacaa"));
         }
     }
 }
