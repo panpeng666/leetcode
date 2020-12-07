@@ -39,23 +39,10 @@ public class java637_notFinish {
       }
 
     class Solution {
+          //其实这题就是需要层序遍历求每层平均值
+        //先迭代试试，但是迭代效率低的一比
         public List<Double> averageOfLevels(TreeNode root) {
             List<Double> res = new ArrayList<>();
-            Boolean flag = true;
-            res.add((double) (root.val/2));
-            TreeNode temp = root;
-            while (flag){
-                TreeNode left = temp.left;
-                TreeNode right = temp.right;
-                res.add((double) ((left.val+right.val)/2));
-
-
-
-
-            }
-
-
-
             return res;
         }
     }
