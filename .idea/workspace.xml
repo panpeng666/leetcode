@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java1304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java349.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ppTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java55.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java509$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java509$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java509.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java509.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java961$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java961$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/leetcode/java961.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/leetcode/java961.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/java206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/java206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ppTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ppTreeNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,12 +58,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../data-factory-static-new" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prescription-service" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeNode">
+  <component name="RunManager" selected="Application.java25$Solution">
     <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.TreeNode" />
       <module name="hello" />
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java1304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java1304" />
+    <configuration name="java15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.java15" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="剑指offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java136" />
+    <configuration name="java17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.java17" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="剑指offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java1460" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java1460" />
+    <configuration name="java25$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.java25$Solution" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="剑指offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java25$Solution" />
+        <item itemvalue="Application.java15" />
+        <item itemvalue="Application.java17" />
         <item itemvalue="Application.TreeNode" />
         <item itemvalue="Application.java58" />
-        <item itemvalue="Application.java136" />
-        <item itemvalue="Application.java1304" />
-        <item itemvalue="Application.java1460" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +221,10 @@
       <workItem from="1609900147363" duration="603000" />
       <workItem from="1614155447000" duration="2017000" />
       <workItem from="1614243186281" duration="1052000" />
-      <workItem from="1614306744825" duration="8788000" />
+      <workItem from="1614306744825" duration="44257000" />
+      <workItem from="1615367498082" duration="13339000" />
+      <workItem from="1615794059746" duration="6000" />
+      <workItem from="1615794092721" duration="10477000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -426,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607419598938</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="提交新的做题记录">
+      <created>1614599888427</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1614599888427</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,6 +539,31 @@
           <url>file://$PROJECT_DIR$/src/剑指offer/java58.java</url>
           <line>48</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/ppTreeNode.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/ppTreeNode.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/ppTreeNode.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/ppTreeNode.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/java25.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

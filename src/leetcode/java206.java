@@ -52,12 +52,12 @@ public class java206 {
             ListNode cur = head;
 
             while (cur!=null){
-                ListNode temp = cur;
+                ListNode temp = cur.next;
                 cur.next=per;
                 per=cur;
-                cur=temp.next;
+                cur=temp;
             }
-            return cur;
+            return per;
         }
     }
 }
