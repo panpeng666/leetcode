@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java57_错题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java68_错题.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/java206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/java206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/ppTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ppTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/java25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java25_错题.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +51,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prescription-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -77,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.java25$Solution">
+  <component name="RunManager" selected="Application.java57">
     <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.TreeNode" />
       <module name="hello" />
@@ -130,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.java58" />
+    <configuration name="java57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.java57" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java57" />
         <item itemvalue="Application.java25$Solution" />
         <item itemvalue="Application.java15" />
         <item itemvalue="Application.java17" />
         <item itemvalue="Application.TreeNode" />
-        <item itemvalue="Application.java58" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +217,8 @@
       <workItem from="1614306744825" duration="44257000" />
       <workItem from="1615367498082" duration="13339000" />
       <workItem from="1615794059746" duration="6000" />
-      <workItem from="1615794092721" duration="10477000" />
+      <workItem from="1615794092721" duration="15298000" />
+      <workItem from="1616578474275" duration="7129000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -436,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614599888427</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="提交新的做题记录">
+      <created>1616135720079</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1616135720079</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,9 +562,14 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/剑指offer/java25.java</url>
+          <url>file://$PROJECT_DIR$/src/剑指offer/java25_错题.java</url>
           <line>86</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/java57_错题.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
