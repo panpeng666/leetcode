@@ -1,9 +1,6 @@
 package 剑指offer;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
 
 public class java55 {
 /**
@@ -85,5 +82,74 @@ public class java55 {
             }
             return depth;
         }
+
+    /**
+     * 输入一棵二叉树的根节点，判断该树是不是平衡二叉树。如果某二叉树中任意节点的左右子树的深度相差不超过1，那么它就是一棵平衡二叉树。
+     *
+     *  
+     *
+     * 示例 1:
+     *
+     * 给定二叉树 [3,9,20,null,null,15,7]
+     *
+     *     3
+     *    / \
+     *   9  20
+     *     /  \
+     *    15   7
+     * 返回 true 。
+     *
+     * 示例 2:
+     *
+     * 给定二叉树 [1,2,2,3,3,null,null,4,4]
+     *
+     *        1
+     *       / \
+     *      2   2
+     *     / \  / \
+     *    3  3  n  n
+     *   / \ / \
+     *  4   4
+     * 返回 false 。
+     *
+     * 来源：力扣（LeetCode）
+     * 链接：https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof
+     * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+     * @param root
+     * @return
+     */
+    //用层序遍历，如果有2层都不平衡就返回
+    public boolean isBalanced(TreeNode root) {
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while (queue.isEmpty()){
+            int  size=queue.size();
+            List<Object> list = new ArrayList<>();
+            while (size>0){
+                TreeNode temp = queue.poll();
+                if (temp==null){
+                    queue.add(null);
+                    queue.add(null);
+                    list.add(null);
+                }else list.add(temp.val);
+                queue.add(temp.left);
+                queue.add(temp.right);
+                size--;
+            }
+            int count = 0;
+            for (Object i:list){
+                if (i==null){
+                    count++;
+                }
+                if (count>(list.size()/2)){
+                    return false;
+                }
+                if (count==list.size()){
+                    return true;
+                }
+            }
+        }
+        return true;
     }
+}
 

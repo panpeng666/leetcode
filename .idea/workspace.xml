@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java62_错题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java11_二分法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java61.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/java55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java55.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +228,10 @@
       <workItem from="1616725535748" duration="618000" />
       <workItem from="1617160601008" duration="4500000" />
       <workItem from="1617262980937" duration="11565000" />
-      <workItem from="1617874700189" duration="3282000" />
+      <workItem from="1617874700189" duration="10597000" />
+      <workItem from="1618625027323" duration="6405000" />
+      <workItem from="1618813396933" duration="5883000" />
+      <workItem from="1619336202924" duration="699000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -451,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616640224932</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="提交新的做题记录">
+      <created>1617935665990</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1617935665990</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
