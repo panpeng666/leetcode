@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java11_二分法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java275.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java53_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java58_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数据结构和算法之美/二分法/children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数据结构和算法之美/二分法/二分法.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/java55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/java11_二分法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java11_二分法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/java42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java42.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yinhai-prescription" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -76,13 +74,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.java57">
-    <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TreeNode" />
+  <component name="RunManager" selected="Application.二分法">
+    <configuration name="二分法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数据结构和算法之美.二分法.二分法" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="数据结构和算法之美.二分法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,19 +90,6 @@
     </configuration>
     <configuration name="java15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="剑指offer.java15" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.java17" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -142,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java58_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.java58_1" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.二分法" />
+        <item itemvalue="Application.java58_1" />
         <item itemvalue="Application.java57" />
         <item itemvalue="Application.java25$Solution" />
         <item itemvalue="Application.java15" />
-        <item itemvalue="Application.java17" />
-        <item itemvalue="Application.TreeNode" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +230,8 @@
       <workItem from="1618625027323" duration="6405000" />
       <workItem from="1618813396933" duration="5883000" />
       <workItem from="1619336202924" duration="699000" />
+      <workItem from="1620285138495" duration="6406000" />
+      <workItem from="1621320570343" duration="21137000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -464,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617935665990</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="提交新的做题记录">
+      <created>1620285184914</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1620285184915</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,6 +604,46 @@
           <url>file://$PROJECT_DIR$/src/剑指offer/java57_错题.java</url>
           <line>53</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/java58_1.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/java58_1.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/java58_1.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/java58_1.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/java58_1.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/java58_1.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/java58_1.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数据结构和算法之美/二分法/二分法.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

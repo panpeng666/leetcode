@@ -26,7 +26,7 @@ import java.util.Map;
  * 链接：https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class java42_动规 {
+class java42_动规 {
     class Solution {
 
         //第一想法就是滑动窗口加指针

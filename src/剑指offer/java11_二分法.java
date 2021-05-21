@@ -23,7 +23,11 @@ public class java11_二分法 {
             int right = numbers.length-1;
             while (left<right){
                 int mid =left+ (right-left)/2;
-                if (numbers[mid]<numbers[right]){}
+                if (numbers[mid]>numbers[right]){
+                    right=mid;
+                }else {
+                    left=mid;
+                }
 
             }
             return numbers[left];
