@@ -119,37 +119,46 @@ public class java55 {
      * @return
      */
     //用层序遍历，如果有2层都不平衡就返回
+    //换个思路，应该层序遍历到第一个不平衡的层的时候，记录一下层数，然后最深层减去他，大于1就是不平衡二叉树
     public boolean isBalanced(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
+        int deep = 0;
+        int flag = 0;
         while (queue.isEmpty()){
             int  size=queue.size();
-            List<Object> list = new ArrayList<>();
+            List<TreeNode> list = new ArrayList<>();
             while (size>0){
                 TreeNode temp = queue.poll();
-                if (temp==null){
-                    queue.add(null);
-                    queue.add(null);
-                    list.add(null);
-                }else list.add(temp.val);
-                queue.add(temp.left);
-                queue.add(temp.right);
+                list.add(temp);
+                if (temp.left!=null) queue.add(temp.left);
+                if (temp.right!=null) queue.add(temp.right);
                 size--;
             }
-            int count = 0;
-            for (Object i:list){
-                if (i==null){
-                    count++;
-                }
-                if (count>(list.size()/2)){
-                    return false;
-                }
-                if (count==list.size()){
-                    return true;
-                }
+            deep++;
+            if (list.size()<Math.pow(2,deep)){
+                flag=deep;
+                break;
             }
+            flag=deep;
         }
-        return true;
+        System.out.println(flag);
+        System.out.println(dfs(root));
+        if (dfs(root)-flag>1){
+            return false;
+        }else return true;
+
+
+    }
+
+    public int dfs(TreeNode root) {
+        if (root==null)return 0;
+        else {
+            int a = dfs(root.left);
+            int b = dfs(root.right);
+            return Math.max(a,b);
+        }
+
     }
 }
 

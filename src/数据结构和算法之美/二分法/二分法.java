@@ -16,7 +16,7 @@ public class 二分法 {
                 left=mid+1;
             }
         }
-        return 0;
+        return -1;
     }
     //迭代方法实现二分法
     public int bsearch1(int[] a, int n, int value){
@@ -90,6 +90,24 @@ public class 二分法 {
         }
         return -1;
     }
+
+    /**
+     * 变体三：查找第一个大于等于给定值的元素
+     */
+    public int bsearch4(int[] a, int n, int value){
+        return -1;
+    }
+    /**
+     * 变体四：查找最后一个小于等于给定值的元素
+     * @param a
+     * @param n
+     * @param value
+     * @return
+     */
+    public int bsearch5(int[] a, int n, int value){
+        return -1;
+    }
+
 
     public static void main(String[] args) {
         int [] a = new int[]{1,1,2,2,3,3,3,3,3,4,4,5};
