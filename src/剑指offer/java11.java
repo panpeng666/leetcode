@@ -16,21 +16,17 @@ package 剑指offer;
  * 链接：https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class java11_二分法 {
+public class java11 {
     class Solution {
+        //问就是暴力，二分你妹
         public int minArray(int[] numbers) {
-            int left = 0;
-            int right = numbers.length-1;
-            while (left<right){
-                int mid =left+ (right-left)/2;
-                if (numbers[mid]>numbers[right]){
-                    right=mid;
-                }else {
-                    left=mid;
-                }
-
-            }
-            return numbers[left];
+            int a = numbers[0];
+           for (int temp:numbers){
+               if (temp<=a){
+                   a=temp;
+               }
+           }
+           return a;
         }
     }
 }
