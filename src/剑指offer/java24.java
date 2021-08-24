@@ -22,19 +22,39 @@ public class java24 {
           ListNode next;
           ListNode(int x) { val = x; }
       }
-
+//思路和冒泡很像
     class Solution {
         public ListNode reverseList(ListNode head) {
             ListNode tempA=null;
             ListNode tempB=head;
             while (tempB!=null){
-                ListNode temp = tempB;
+                ListNode temp = tempB.next;
                 tempB.next=tempA;
                 tempA=tempB;
-                tempB=temp.next;
+                tempB=temp;
 
             }
             return tempB;
+        }
+
+
+
+
+
+
+
+
+
+        public ListNode reverseList1(ListNode head) {
+            ListNode pre = null;
+            ListNode cur = head;
+            while (cur!=null){
+                ListNode temp =cur;
+                cur.next = pre;
+                pre=temp;
+                cur=temp.next;
+            }
+            return cur;
         }
     }
 }

@@ -1,5 +1,8 @@
 package 剑指offer;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 import java.util.Stack;
 
 public class java06 {
@@ -37,5 +40,20 @@ public class java06 {
             }
             return ans;
         }
+
+        public int[] reversePrint1(ListNode head) {
+            List<Integer> temp = new ArrayList<Integer>();
+            while (head!=null){
+                temp.add(head.val);
+                head=head.next;
+            }
+            int [] a =new int[temp.size()];
+            Collections.reverse(temp);
+            for (int i=0;i<temp.size();i++){
+                a[i]=temp.get(i);
+            }
+            return a;
+        }
+
     }
 }

@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java275.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java53_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java58_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数据结构和算法之美/二分法/children.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数据结构和算法之美/二分法/二分法.java" afterDir="false" />
+    <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="提交一堆二叉树">
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java09_temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day1原地修改数组/java26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day1原地修改数组/java27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day1原地修改数组/java283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day1原地修改数组/java83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day2前缀和技巧/java303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day2前缀和技巧/java560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day5二分搜索原理/java704.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/java11_二分法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java11_二分法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/java42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/java06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/java24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java24.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,12 +58,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yinhai-prescription" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -74,13 +77,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.二分法">
-    <configuration name="二分法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数据结构和算法之美.二分法.二分法" />
+  <component name="RunManager" selected="Application.java27">
+    <configuration name="java101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java101" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数据结构和算法之美.二分法.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,8 +91,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.java15" />
+    <configuration name="java111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java111" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java144$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.java144$Solution" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java21$Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.java21$Test01" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
@@ -101,38 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java25$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.java25$Solution" />
+    <configuration name="java27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="张哥21天算法计划.Day1原地修改数组.java27" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.java57" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java58_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.java58_1" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
+          <option name="PATTERN" value="张哥21天算法计划.Day1原地修改数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.二分法" />
-        <item itemvalue="Application.java58_1" />
-        <item itemvalue="Application.java57" />
-        <item itemvalue="Application.java25$Solution" />
-        <item itemvalue="Application.java15" />
+        <item itemvalue="Application.java27" />
+        <item itemvalue="Application.java21$Test01" />
+        <item itemvalue="Application.java111" />
+        <item itemvalue="Application.java101" />
+        <item itemvalue="Application.java144$Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +234,21 @@
       <workItem from="1618813396933" duration="5883000" />
       <workItem from="1619336202924" duration="699000" />
       <workItem from="1620285138495" duration="6406000" />
-      <workItem from="1621320570343" duration="21137000" />
+      <workItem from="1621320570343" duration="43856000" />
+      <workItem from="1621934155139" duration="11253000" />
+      <workItem from="1622428260325" duration="5014000" />
+      <workItem from="1622602544882" duration="17333000" />
+      <workItem from="1623034993031" duration="18759000" />
+      <workItem from="1625036339784" duration="2646000" />
+      <workItem from="1625280061880" duration="840000" />
+      <workItem from="1625467022588" duration="13577000" />
+      <workItem from="1626851728382" duration="2116000" />
+      <workItem from="1627370737907" duration="33000" />
+      <workItem from="1628579521857" duration="2623000" />
+      <workItem from="1628648503471" duration="2151000" />
+      <workItem from="1629096865199" duration="13613000" />
+      <workItem from="1629363336833" duration="6283000" />
+      <workItem from="1629723037614" duration="1124000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -471,7 +488,42 @@
       <option name="project" value="LOCAL" />
       <updated>1620285184915</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="提交新的做题记录">
+      <created>1621584530492</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1621584530492</updated>
+    </task>
+    <task id="LOCAL-00036" summary="提交一堆二叉树和n叉树的题目">
+      <created>1621847627661</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1621847627661</updated>
+    </task>
+    <task id="LOCAL-00037" summary="提交100号刷题">
+      <created>1621909586243</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1621909586243</updated>
+    </task>
+    <task id="LOCAL-00038" summary="提交一堆二叉树">
+      <created>1623121424895</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1623121424896</updated>
+    </task>
+    <task id="LOCAL-00039" summary="提交最近做题记录">
+      <created>1626923240371</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1626923240371</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +558,11 @@
     <MESSAGE value="提交新的做题记录  java1413和1518" />
     <MESSAGE value="提交新的做题记录和二叉树遍历练习" />
     <MESSAGE value="提交新的做题记录" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交新的做题记录" />
+    <MESSAGE value="提交一堆二叉树和n叉树的题目" />
+    <MESSAGE value="提交100号刷题" />
+    <MESSAGE value="提交一堆二叉树" />
+    <MESSAGE value="提交最近做题记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交最近做题记录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -644,6 +700,31 @@
           <url>file://$PROJECT_DIR$/src/数据结构和算法之美/二分法/二分法.java</url>
           <line>43</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/java101.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/java101.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/java111.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/java111.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/java111.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
