@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="提交一堆二叉树">
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java09_temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day1原地修改数组/java26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day1原地修改数组/java27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day1原地修改数组/java283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day1原地修改数组/java83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day2前缀和技巧/java303.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day2前缀和技巧/java560.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/Day5二分搜索原理/java704.java" afterDir="false" />
+    <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="提交一堆算法题">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java223.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/Day15ULRU算法/LRU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/Day15ULRU算法/java146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day16LFU算法/LFU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day17回溯算法原理/java46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day19动态规划原理/java322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day19动态规划原理/java509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day20动态规划设计/java300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day20动态规划设计/java53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day10单调队列和单调栈/java496.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day11二叉树训练/java114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day11二叉树训练/java226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day12二叉搜索树基础/java450.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day12二叉搜索树基础/java700.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day12二叉搜索树基础/java701.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day12二叉搜索树基础/java98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day14并查集UnionFind算法/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day8链表技巧汇总/java141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day8链表技巧汇总/java142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day8链表技巧汇总/java160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day8链表技巧汇总/java19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day9队列和栈互转/java225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day9队列和栈互转/java232.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/java06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/java24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/java12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java12.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,12 +74,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prescription-data-store" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,39 +93,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.java27">
-    <configuration name="java101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java101" />
+  <component name="RunManager" selected="TestNG.java6.test">
+    <configuration name="java2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.java2" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java111" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java144$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.java144$Solution" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="剑指offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,13 +133,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="张哥21天算法计划.第三周.day20动态规划设计.java53" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="张哥21天算法计划.第三周.day20动态规划设计.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java6.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.java6" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.java6.test" />
+        <item itemvalue="Application.java2" />
+        <item itemvalue="Application.java53" />
         <item itemvalue="Application.java27" />
         <item itemvalue="Application.java21$Test01" />
-        <item itemvalue="Application.java111" />
-        <item itemvalue="Application.java101" />
-        <item itemvalue="Application.java144$Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +269,11 @@
       <workItem from="1628648503471" duration="2151000" />
       <workItem from="1629096865199" duration="13613000" />
       <workItem from="1629363336833" duration="6283000" />
-      <workItem from="1629723037614" duration="1124000" />
+      <workItem from="1629723037614" duration="25593000" />
+      <workItem from="1630659163789" duration="719000" />
+      <workItem from="1630829890555" duration="23920000" />
+      <workItem from="1632659742567" duration="14496000" />
+      <workItem from="1633937535707" duration="9668000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -523,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626923240371</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="提交一堆算法题">
+      <created>1629797267982</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1629797267982</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +594,8 @@
     <MESSAGE value="提交100号刷题" />
     <MESSAGE value="提交一堆二叉树" />
     <MESSAGE value="提交最近做题记录" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交最近做题记录" />
+    <MESSAGE value="提交一堆算法题" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交一堆算法题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
