@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="提交一堆算法题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java223.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/java6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/java2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/Day15ULRU算法/LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/Day15ULRU算法/java146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day16LFU算法/LFU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day17回溯算法原理/java46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day19动态规划原理/java322.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day19动态规划原理/java509.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day20动态规划设计/java300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第三周/day20动态规划设计/java53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day10单调队列和单调栈/java496.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day11二叉树训练/java114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day11二叉树训练/java226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day12二叉搜索树基础/java450.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day12二叉搜索树基础/java700.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day12二叉搜索树基础/java701.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day12二叉搜索树基础/java98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day14并查集UnionFind算法/UF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day8链表技巧汇总/java141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day8链表技巧汇总/java142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day8链表技巧汇总/java160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day8链表技巧汇总/java19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day9队列和栈互转/java225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/张哥21天算法计划/第二周/Day9队列和栈互转/java232.java" afterDir="false" />
+    <list default="true" id="0f911d9c-752d-4f19-8b1c-c043f5537ec9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/javaLearn/注解和反射/注解/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaLearn/注解和反射/注解/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaLearn/注解和反射/注解/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java412.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/java7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/java69.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/java12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/java12.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +53,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prescription-data-store" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -273,7 +252,11 @@
       <workItem from="1630659163789" duration="719000" />
       <workItem from="1630829890555" duration="23920000" />
       <workItem from="1632659742567" duration="14496000" />
-      <workItem from="1633937535707" duration="9668000" />
+      <workItem from="1633937535707" duration="11064000" />
+      <workItem from="1634107019563" duration="1033000" />
+      <workItem from="1634177729708" duration="1830000" />
+      <workItem from="1634544866753" duration="1042000" />
+      <workItem from="1634558410193" duration="3559000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567144977401</created>
@@ -555,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629797267982</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="提交一堆算法题">
+      <created>1634020996364</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1634020996364</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
